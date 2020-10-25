@@ -161,8 +161,8 @@ img {
     font-size: 32px;
     font-weight: 900;
     font-family: 'Play';
-    padding-bottom: 52px;
-    padding-top: 143px;
+    margin-bottom: 52px;
+    margin-top: 143px;
     position: relative;
     text-align: center;
     cursor: pointer;
@@ -172,7 +172,7 @@ img {
     position: absolute;
     content: '';
     left: 50%;
-    bottom: 25px;
+    bottom: -25px;
     background: #00e0d0;
     height: 1px;
     width: 50px;
